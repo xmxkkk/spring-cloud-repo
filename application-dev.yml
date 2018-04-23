@@ -1,1 +1,4 @@
 shop_url: http://127.0.0.1:8002/release/buy
+eureka:
+  server:
+    url: http://localhost:10000/eureka/
